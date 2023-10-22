@@ -9,7 +9,7 @@ An Introduction to the basic theory, the fundamental algorithms, and the computa
 ## 1. K-Means Algorithm
 K-Means is a fundamental unsupervised machine learning algorithm used for clustering and data segmentation. The goal of clustering is to group similar data points together, allowing data scientists and researchers to uncover patterns, gain insights, and make data-driven decisions. K-Means achieves this by partitioning a dataset into K clusters, with each cluster represented by its centroid, which is the mean of all data points in the cluster.
 
-## 2.Comparing Binary Linear Classifier and SVM
+## 2. Comparing Binary Linear Classifier and SVM
 In this comparison project, a binary linear classifier and a linear Support Vector Machine (SVM) are empirically evaluated using the Iris dataset. The binary linear classifier and SVM are implemented using scikit-learn. The project explores various aspects such as implementing decision boundaries, reporting accuracy, understanding support vectors, and analyzing the impact of dataset size on the models' performance. The README provides a comprehensive understanding of the theoretical background behind binary linear classification and SVM, offering a clear guide on their implementations and comparisons.
 
 ## 3. Deep Learning with Convolutional Neural Networks
